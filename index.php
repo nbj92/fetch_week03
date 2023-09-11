@@ -23,7 +23,7 @@
          <div class="menu_header">
             <h2>Pizza</h2>
          </div>
-         <article class="">
+         <article class="menu_indhold">
             <div>
               <p>hawaii</p>
             </div>
