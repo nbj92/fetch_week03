@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Hawaii",
+        "toppings": [
+        "ananans",
+        "skinke"
+        ]
+    },
+    {
+    "name": "Genova",
+    "toppings": [
+    "ananans",
+    "kylling",
+    "karry"
+    ]
+    },
+    {
+    "name": "Tango",
+    "toppings": [
+    "oksekød",
+    "skinke",
+    "bacon"
+    ]
+    },
+    {
+    "name": "Grækeren",
+    "toppings": [
+    "oksekød",
+    "spinat",
+    "champignon",
+    "rødløg"
+    ]
+    }
+]
