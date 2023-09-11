@@ -1,7 +1,6 @@
 <?php 
 ?>
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,8 +33,6 @@
                 </p>
             </div>
          </article>
-
-
        </section>
     </main>   
 </body>
