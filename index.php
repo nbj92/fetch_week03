@@ -34,6 +34,7 @@
             </div>
          </article>
        </section>
-    </main>   
+    </main> 
+    <script src="./main.js".></script>  
 </body>
 </html>
