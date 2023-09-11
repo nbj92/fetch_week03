@@ -1,3 +1,7 @@
+<?php 
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,9 +12,18 @@
 </head>
 <body>
     <main>
-        <h1>Hello</h1>
+       <section class="header">
+          <article>
+            <div>
+                <h1>Pizza uden ananas</h1>
+            </div>
+          </article>
+       </section>
+       <section class="menu_wrapper">
+         
 
 
+       </section>
     </main>   
 </body>
 </html>
