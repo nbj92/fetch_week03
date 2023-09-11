@@ -12,15 +12,28 @@
 </head>
 <body>
     <main>
+    
        <section class="header">
           <article>
             <div>
-                <h1>Pizza uden ananas</h1>
+                <h1>Pizza uden ananas</h1> 
             </div>
           </article>
        </section>
        <section class="menu_wrapper">
-         
+         <div class="menu_header">
+            <h2>Pizza</h2>
+         </div>
+         <article class="">
+            <div>
+              <p>hawaii</p>
+            </div>
+            <div class="indhold">
+                <p>
+
+                </p>
+            </div>
+         </article>
 
 
        </section>
