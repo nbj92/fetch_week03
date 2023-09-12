@@ -40,6 +40,7 @@ function udenTopping(pizzaer, tp) {
     const result = pizzaer.filter(p => {
         p.topping["toppings"].forEach(t => {
             if(t==tp) {
+                console.log(t);
                 return true;
             }     
         });
