@@ -131,6 +131,12 @@ async function getData() {
         console.log(keys[1]);
         console.log(data[keys[1]]);
 
+        console.log("Foreach loop");
+        for(let key of keys) {
+          console.log(data[key]);
+          console.log(typeof data[key]);
+        }
+
     } catch(err) {
         console.error(err);
     }
