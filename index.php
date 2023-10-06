@@ -30,7 +30,7 @@
             </div>
             <div class="indhold">
                 <p>
-
+                  Dette indhold committer vi lige til vores nye remote
                 </p>
             </div>
          </article>
